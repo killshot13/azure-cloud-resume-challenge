@@ -2,7 +2,7 @@
 
 ## Microsoft Azure Version
 
-_Inspired by the [original Cloud Resume Challenge blog post](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/) which was the brainchild of [Forrest Brazael](http://forrestbrazeal.com/)_
+(_Inspired by the [original Cloud Resume Challenge blog post](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/) which was the brainchild of [Forrest Brazael](http://forrestbrazeal.com/)_)
 
 ### Updated for 2021
 
