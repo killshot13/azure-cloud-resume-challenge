@@ -2,7 +2,7 @@
 
 ## Microsoft Azure Version
 
-(_Inspired by the [original Cloud Resume Challenge blog post](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/) which was the brainchild of [Forrest Brazael](http://forrestbrazeal.com/)_)
+(_Inspired by the [original Cloud Resume Challenge](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/)_)
 
 [View on GitHub Pages](https://killshot13.github.io/azure-cloud-resume-challenge)
 
@@ -22,5 +22,6 @@ And you’ll have learned by doing, because the instructions aren't specific eno
 
 Alternatively, if you give this project a try and realize that you hate it, or you’re just not interested, you’ll have learned a valuable lesson about whether a career in the cloud is truly for you – because these are the types of problems that real cloud engineers and developers really work on every day.
 
-**CREDITS**
-_Inspired by the [original Cloud Resume Challenge blog post](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/) which was the brainchild of [Forrest Brazael](http://forrestbrazeal.com/)_
+### _Credits_
+
+Adapted from the [original Cloud Resume Challenge blog post](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/) which was the brainchild of [Forrest Brazael](http://forrestbrazeal.com/)
