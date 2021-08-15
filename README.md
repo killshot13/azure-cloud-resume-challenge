@@ -1,6 +1,10 @@
-# Azure Cloud Resume Challenge
+# Cloud Resume Challenge
 
-## Updated for 2021
+## Microsoft Azure Version
+
+_Inspired by the [original Cloud Resume Challenge blog post](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/) which was the brainchild of [Forrest Brazael](http://forrestbrazeal.com/)_
+
+### Updated for 2021
 
 [View on GitHub Pages](https://killshot13.github.io/azure-cloud-resume-challenge)
 
