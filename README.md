@@ -1,14 +1,12 @@
-# AZ-CLD-RES-CHAL
+# Azure Cloud Resume Challenge
 
-## [Cloud Resume Challenge](https://killshot13.github.io/AZ-CLD-RES-CHAL/)
+## Updated for 2021
 
-## Microsoft Azure Version
+[View on GitHub Pages](https://killshot13.github.io/azure-cloud-resume-challenge)
 
-### Updated for 2021
+_Instructions:_ Follow [steps 1-16](https://killshot13.github.io/azure-cloud-resume-challenge), in order, without skipping any stages or choosing to dabble only with the sections that seem most fun or interesting.
 
-_Instructions:_ Follow [steps 1-16](https://killshot13.github.io/AZ-CLD-RES-CHAL/), in order, without skipping any stages or choosing to dabble only with the sections that seem most fun or interesting.
-
-Why? Because after completing the [Cloud Resume Challenge](https://killshot13.github.io/AZ-CLD-RES-CHAL/) from start to finish, you will already have more useful skills than a lot of people who graduate from university computer science programs.
+Why? Because after completing the [Azure Cloud Resume Challenge](https://killshot13.github.io/azure-cloud-resume-challenge) from start to finish, you will already have more useful skills than a lot of people who graduate from university computer science programs.
 
 More specifically, you will understand something about full-stack software development, version control, infrastructure as code, automation, continuous integration and delivery, cloud services and “serverless”, application security, and networking.
 
