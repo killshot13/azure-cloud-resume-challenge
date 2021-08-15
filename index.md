@@ -2,16 +2,15 @@
 
 ## Microsoft Azure Version
 
-_Inspired by the [original Cloud Resume Challenge blog post](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/) which was the brainchild of [Forrest Brazael](http://forrestbrazeal.com/)_
+(_Inspired by the [original Cloud Resume Challenge](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/)_)
 
-### Updated for 2021
+### Instructions:
 
-**Instructions:**
 Follow steps 1-16 as listed below, in order, without skipping any stages or choosing to dabble only with the sections that seem most fun or interesting.
 
-Why? Because after completing the Cloud Resume Challenge from start to finish, you will already have more useful skills than a lot of people who graduate from university computer science programs.
+Why? Because after completing the Azure Cloud Resume Challenge from start to finish, you will already have more useful skills than a lot of people who graduate from university computer science programs.
 
-More specifically, you will understand something about full-stack software development, version control, infrastructure as code, automation, continuous integration and delivery, cloud services and “serverless”, application security, and networking.
+More specifically, you will understand something about full-stack software development, version control, infrastructure as code, automation, continuous integration and delivery, cloud services and "serverless", application security, and networking.
 
 Most importantly, you will have demonstrated the number-one skill in a cloud engineer’s toolbox: the ability to learn fast and Google new terminology with precision.
 
